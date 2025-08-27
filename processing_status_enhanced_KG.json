@@ -1,0 +1,11 @@
+{
+    "processed_files_map": {
+        "data/medical_case\\于己百医生病例集.txt": "completed",
+        "data/medical_case\\干祖望医生病例集.txt": "completed",
+        "data/medical_case\\不孕症名医验案解析.txt": "completed",
+        "data/medical_case\\儿科病名医验案解析.txt": "completed"
+    },
+    "current_file_path": null,
+    "current_chapter_name_being_processed": null,
+    "current_chunk_idx": 0
+}

@@ -16,10 +16,10 @@ def main():
     title_sub = "（10 省市）"
     coverage_line = "覆盖：重庆、四川、云南、贵州、湖北、湖南、广东、河南、山东、浙江"
 
-    map_x = 80
-    map_y = 190
-    map_w = 1760
-    map_h = 790
+    map_x = 50
+    map_y = 184
+    map_w = 1820
+    map_h = 820
     map_r = 24
 
     svg = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -66,4 +66,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
